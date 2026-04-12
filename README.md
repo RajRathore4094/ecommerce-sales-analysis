@@ -1,23 +1,64 @@
-# ecommerce-sales-analysis
-E-commerce sales data analysis project using MySQL and Power BI with insights on sales trends, customers, and products.
+🛒 E-Commerce Sales Analysis Dashboard
 
-# E-commerce Sales Analysis
+📊 Project Overview
 
-## 📊 Project Overview
-This project analyzes e-commerce sales data using MySQL and Power BI.
+This project focuses on analyzing e-commerce sales data using **MySQL** and **Power BI** to generate meaningful business insights. The dashboard helps in understanding sales performance, customer behavior, and product trends.
 
-## 🛠 Tools Used
-- MySQL
-- Power BI
-- Excel
+---
 
-## 📈 Key Insights
-- Top selling cities
-- Best products
-- Monthly sales trends
-- Payment analysis
+🎯 Objectives
 
-## 📂 Files
-- sales_data.csv
-- analysis.sql
-- dashboard.pbix
+* Analyze sales trends over time
+* Identify top-performing states and categories
+* Understand customer purchasing behavior
+* Evaluate payment mode preferences
+
+---
+
+🛠 Tools & Technologies Used
+
+* MySQL (Data Querying & Analysis)
+* Power BI (Data Visualization & Dashboard)
+* Excel/CSV (Dataset)
+
+---
+
+📊 Dashboard Features
+
+* KPI Cards: Total Sales, Total Orders, Profit
+* Interactive Slicers: State, Category, Payment Mode, Order Date
+* Visualizations:
+
+  * Sales by State
+  * Sales by Category
+  * Monthly Sales Trend
+  * Payment Mode Analysis
+
+---
+
+📈 Key Insights
+
+* Top performing state: (Add your insight)
+* Most used payment mode: (Add your insight)
+* Highest sales category: (Add your insight)
+* Sales trend shows (Add observation)
+
+---
+
+🚀 How to Use
+
+1. Download the dataset
+2. Open `.pbix` file in Power BI
+3. Explore the dashboard using slicers and filters
+
+---
+
+💡 Conclusion
+
+This project demonstrates how raw data can be transformed into actionable insights using SQL and Power BI.
+
+---
+
+📌 Author
+
+Raj Rathore
