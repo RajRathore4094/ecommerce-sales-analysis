@@ -2,7 +2,7 @@
 
 📊 Project Overview
 
-This project focuses on analyzing e-commerce sales data using **MySQL** and **Power BI** to generate meaningful business insights. The dashboard helps in understanding sales performance, customer behavior, and product trends.
+This project focuses on analyzing e-commerce sales data using MySQL and Power BI to generate meaningful business insights. The dashboard helps in understanding sales performance, customer behavior, and product trends.
 
 ---
 
@@ -38,10 +38,10 @@ This project focuses on analyzing e-commerce sales data using **MySQL** and **Po
 
 📈 Key Insights
 
-* Top performing state: (Add your insight)
-* Most used payment mode: (Add your insight)
-* Highest sales category: (Add your insight)
-* Sales trend shows (Add observation)
+* Top performing state: Maharashtra
+* Most used payment mode: Credit_Card
+* Highest sales category: Electronics
+* Sales trend shows : - Sales trend shows a fluctuating pattern throughout the year, with peaks in March and October and relatively stable performance during mid-year months.
 
 ---
 
